@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.postimg.cc/RZXVt4zQ/Post-de-Facebook-Digital-UI-Morado-sobre-Salud-Mental-y-Consejos-en-el-trabajo.png" style="width: 100vw" alt="headerAldanaPilla">
+  <img src="https://i.postimg.cc/RZXVt4zQ/Post-de-Facebook-Digital-UI-Morado-sobre-Salud-Mental-y-Consejos-en-el-trabajo.png" width="100%" 
+       height="200" alt="headerAldanaPilla">
 
 </div>
 
