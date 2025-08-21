@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.postimg.cc/7ZVj9nXS/3c1ec25a-4486-430f-9f61-c51adab76be5.jpg" width="100%" 
-       height="200" alt="headerAldanaPilla">
+  <img src="https://postimg.cc/hXXCPxkG" width="100%" 
+       height="300" alt="headerAldanaPilla">
 
 </div>
 
