@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/qRkjTKks/Captura-de-pantalla-2025-08-21-a-las-10-53-44.png" width=100vw alt="headerAldanaPilla">
+  <img src="https://i.postimg.cc/qRkjTKks/Captura-de-pantalla-2025-08-21-a-las-10-53-44.png" style="width: 70vw" alt="headerAldanaPilla">
 
 </div>
 
