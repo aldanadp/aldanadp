@@ -52,7 +52,7 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <br><br><br><br><br><br><br><br>
 A personal web application forn artists. Minimal and simple design where you can have a quick view to her/his Portfolio.
 
-[![GitHub Repo](https://github.com/aldanadp/Minimalist-Graphic-Designer-Website)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/aldanadp/Minimalist-Graphic-Designer-Website)
 
 
 
@@ -80,7 +80,7 @@ A personal web application forn artists. Minimal and simple design where you can
 
 A responsive web designed to help users navigate through the official Museum Website and know about upcoming exhibitions and have a quick view on what its going on.<br>
 
-[![GitHub Repo](https://github.com/aldanadp/museum-website)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/aldanadp/museum-website)
 
 <br>
 
@@ -105,7 +105,7 @@ A responsive web designed to help users navigate through the official Museum Web
 
 This is a BooksStore where you can check and buy books online - It works with APIs.        
 
-[![GitHub Repo](https://github.com/aldanadp/bookstore-adp)         
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/aldanadp/bookstore-adp)         
 <br>
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
@@ -131,7 +131,7 @@ This is a BooksStore where you can check and buy books online - It works with AP
 This Website contains deployed projects. It has a 2KY and vaporwave Design. The contact form is done with PHP.               
 <br>
 
-[![GitHub Repo](https://github.com/aldanadp/personal-website-adp)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/aldanadp/personal-website-adp)
 <br>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
