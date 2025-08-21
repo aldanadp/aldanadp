@@ -48,7 +48,7 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 <a href='website-adp.netlify.app' target='_blank'>
   <img align='left' width='150px' src='https://i.postimg.cc/MTC25t06/Captura-de-pantalla-2025-08-21-a-las-10-39-21.png' alt='' />
 </a> 
-
+<br><br><br><br><br><br><br><br>
 A personal web application forn artists. Minimal and simple design where you can have a quick view to her/his Portfolio.
 
 [![GitHub Repo](https://github.com/aldanadp/Minimalist-Graphic-Designer-Website)
