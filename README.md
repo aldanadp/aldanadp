@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/qRkjTKks/Captura-de-pantalla-2025-08-21-a-las-10-53-44.png" alt="headerAldanaPilla">
+  <img src="https://i.postimg.cc/qRkjTKks/Captura-de-pantalla-2025-08-21-a-las-10-53-44.png" width=100vw alt="headerAldanaPilla">
 
 </div>
 
@@ -77,7 +77,7 @@ A personal web application forn artists. Minimal and simple design where you can
 </a> 
 
 
-A responsive web designed to help users navigate through the official Museum Website and know about upcoming exhibitions and have a quick view on what its going on<br>
+A responsive web designed to help users navigate through the official Museum Website and know about upcoming exhibitions and have a quick view on what its going on.<br>
 
 [![GitHub Repo](https://github.com/aldanadp/museum-website)
 
@@ -102,7 +102,7 @@ A responsive web designed to help users navigate through the official Museum Web
 
 
 
-This is a BooksStore where you can check and buy books online- It works with APIs.        
+This is a BooksStore where you can check and buy books online - It works with APIs.        
 
 [![GitHub Repo](https://github.com/aldanadp/bookstore-adp)         
 <br>
@@ -127,7 +127,7 @@ This is a BooksStore where you can check and buy books online- It works with API
 </a> 
 
 
-This Website contains projects and has a 2KY and vaporwave Design. The contact form is donde with PHP               
+This Website contains deployed projects. It has a 2KY and vaporwave Design. The contact form is done with PHP.               
 <br>
 
 [![GitHub Repo](https://github.com/aldanadp/personal-website-adp)
