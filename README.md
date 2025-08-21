@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/dtZXMK6Q/5142850.jpg" width="100%" 
+  <img src="[https://i.postimg.cc/dtZXMK6Q/5142850.jpg](https://i.postimg.cc/7ZVj9nXS/3c1ec25a-4486-430f-9f61-c51adab76be5.jpg)" width="100%" 
        height="200" alt="headerAldanaPilla">
 
 </div>
