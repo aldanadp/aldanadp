@@ -47,7 +47,7 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 
 <a href='https://adp-website-portfolio.netlify.app/' target='_blank'>
-  <img align='left' width='150px' src='[https://i.postimg.cc/MTC25t06/Captura-de-pantalla-2025-08-21-a-las-10-39-21.png](https://i.postimg.cc/Nfz9Nrt8/Captura-de-pantalla-2025-09-29-a-las-12-06-22.png)' alt='' />
+  <img align='left' width='150px' src='https://i.postimg.cc/Nfz9Nrt8/Captura-de-pantalla-2025-09-29-a-las-12-06-22.png' alt='' />
 </a> 
 <br><br><br><br><br><br><br><br>
 A personal web application.
