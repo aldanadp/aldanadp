@@ -43,6 +43,33 @@ Thanks to my years of experience in the notarial sector, I have developed the ab
 
 ## 🆕 My Latest Personal Projects
 
+## Portfolio
+
+
+<a href='https://adp-website-portfolio.netlify.app/' target='_blank'>
+  <img align='left' width='150px' src='[https://i.postimg.cc/MTC25t06/Captura-de-pantalla-2025-08-21-a-las-10-39-21.png](https://i.postimg.cc/Nfz9Nrt8/Captura-de-pantalla-2025-09-29-a-las-12-06-22.png)' alt='' />
+</a> 
+<br><br><br><br><br><br><br><br>
+A personal web application.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/aldanadp/Minimalist-Graphic-Designer-Website)
+
+
+
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Hooks](https://img.shields.io/badge/Custom%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/hooks-custom.html)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+
+<br><br>
+
 ## Minimalist Web Design
 
 
